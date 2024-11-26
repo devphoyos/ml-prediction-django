@@ -19,7 +19,7 @@ Este proyecto es una aplicación web desarrollada en **Django** que permite carg
 1. **Clonar el repositorio**:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/devphoyos/ml-prediction-django
    cd tu-repositorio
    ```
 
