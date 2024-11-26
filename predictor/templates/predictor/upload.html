@@ -79,8 +79,6 @@
       };
 
       // Función para ocultar el mensaje cuando la respuesta haya llegado
-      // Asumimos que la página se recargará cuando se complete el procesamiento.
-      // Si estás usando AJAX, puedes ocultarlo desde allí.
       document.addEventListener("DOMContentLoaded", function () {
         if (document.querySelector(".table")) {
           loadingDiv.classList.add("hidden"); // Ocultar el mensaje cuando la tabla está disponible
