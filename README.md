@@ -20,7 +20,7 @@ Este proyecto es una aplicación web desarrollada en **Django** que permite carg
 
    ```bash
    git clone https://github.com/devphoyos/ml-prediction-django
-   cd tu-repositorio
+   cd ml-prediction-django
    ```
 
 2. **Crear un entorno virtual (opcional pero recomendado)**
